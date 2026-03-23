@@ -15,7 +15,7 @@ RUN apk add --no-cache curl
 # Copiar archivos compilados
 COPY --from=builder /app/dist /usr/share/nginx/html
 
-# Crear nginx.conf simple sin HTTPS
+# Crear nginx.conf con soporte HTTP y HTTPS
 RUN cat > /etc/nginx/nginx.conf <<'EOF'
 user nginx;
 worker_processes auto;
@@ -38,9 +38,32 @@ http {
         server server:3001;
     }
 
+    # HTTP - redirige a HTTPS si el certificado existe
     server {
         listen 80;
         server_name _;
+        
+        location /.well-known/acme-challenge/ {
+            root /var/www/certbot;
+        }
+        
+        location / {
+            # Si existen certificados, redirige a HTTPS
+            return 301 https://$host$request_uri;
+        }
+    }
+
+    # HTTPS (si existen los certificados)
+    server {
+        listen 443 ssl;
+        server_name _;
+        
+        ssl_certificate /etc/nginx/certs/live/pokemontrivial.duckdns.org/fullchain.pem;
+        ssl_certificate_key /etc/nginx/certs/live/pokemontrivial.duckdns.org/privkey.pem;
+        ssl_protocols TLSv1.2 TLSv1.3;
+        ssl_ciphers HIGH:!aNULL:!MD5;
+        ssl_prefer_server_ciphers on;
+
         root /usr/share/nginx/html;
 
         location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2)$ {
@@ -72,6 +95,6 @@ http {
 }
 EOF
 
-EXPOSE 80
+EXPOSE 80 443
 
 CMD ["nginx", "-g", "daemon off;"]
