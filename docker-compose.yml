@@ -49,8 +49,6 @@ services:
       retries: 5
       start_period: 30s
     restart: unless-stopped
-    volumes:
-      - ./letsencrypt/live:/etc/nginx/certs:ro
 
 networks:
   pokemon-network:
