@@ -1,0 +1,23 @@
+[
+  {
+    "question": "¿Qué objeto aumenta el daño de movimientos de tipo Eléctrico?",
+    "options": ["Charcoal", "Magnet", "Mystic Water", "Never-Melt Ice"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto restaura PS al estar por debajo de la mitad?",
+    "options": ["Leftovers", "Sitrus Berry", "Focus Sash", "Choice Scarf"],
+    "correct": 1,
+    "difficulty": "easy",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto bloquea la primera derrota si el usuario tiene PS completos?",
+    "options": ["Focus Band", "Focus Sash", "Rocky Helmet", "Assault Vest"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "objetos"
+  }
+]

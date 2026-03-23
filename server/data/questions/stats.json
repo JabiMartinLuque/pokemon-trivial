@@ -1,0 +1,23 @@
+[
+  {
+    "question": "¿Qué stat suele ser la más alta en Snorlax?",
+    "options": ["Velocidad", "Defensa", "PS", "Ataque Especial"],
+    "correct": 2,
+    "difficulty": "easy",
+    "category": "stats"
+  },
+  {
+    "question": "En combate, ¿qué stat determina quién ataca primero normalmente?",
+    "options": ["Defensa", "Velocidad", "Ataque", "PS"],
+    "correct": 1,
+    "difficulty": "easy",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué stat reduce el daño de ataques especiales entrantes?",
+    "options": ["Defensa", "Defensa Especial", "Velocidad", "Evasión"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "stats"
+  }
+]

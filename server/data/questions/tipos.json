@@ -1,0 +1,30 @@
+[
+  {
+    "question": "¿De qué tipo es Pikachu?",
+    "options": ["Fuego", "Agua", "Eléctrico", "Planta"],
+    "correct": 2,
+    "difficulty": "easy",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo es super efectivo contra Agua?",
+    "options": ["Planta", "Fuego", "Normal", "Volador"],
+    "correct": 0,
+    "difficulty": "easy",
+    "category": "tipos"
+  },
+  {
+    "question": "Charizard es de tipo Fuego y…",
+    "options": ["Dragón", "Volador", "Lucha", "Siniestro"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo resiste los ataques de tipo Eléctrico?",
+    "options": ["Agua", "Tierra", "Acero", "Volador"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "tipos"
+  }
+]

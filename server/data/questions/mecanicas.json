@@ -1,0 +1,30 @@
+[
+  {
+    "question": "¿Qué objeto suele curar el estado de parálisis?",
+    "options": ["Antídoto", "Antiparalizador", "Revitalizante", "Carameloraro"],
+    "correct": 1,
+    "difficulty": "easy",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué ocurre al usar un ataque super efectivo?",
+    "options": ["Hace menos daño", "Hace más daño", "Siempre falla", "Cura al rival"],
+    "correct": 1,
+    "difficulty": "easy",
+    "category": "mecanicas"
+  },
+  {
+    "question": "En combates dobles, ¿cuántos Pokémon por lado suelen participar?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué mecánica introduce la Teracristalización en Escarlata/Púrpura?",
+    "options": ["Megaevolución", "Cambio de tipo temporal", "Fusión", "Intercambio forzado"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  }
+]
