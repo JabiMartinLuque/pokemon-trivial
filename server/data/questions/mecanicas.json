@@ -26,5 +26,152 @@
     "correct": 1,
     "difficulty": "hard",
     "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es la prioridad 0 en movimientos de Pokémon?",
+    "options": ["Velocidad normal", "Ataca primero", "Ataca último", "No existe"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué movimiento tiene prioridad +1 y ataca al rival obligatoriamente?",
+    "options": ["Quick Attack", "Aqua Jet", "Mach Punch", "Los tres"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es Terrain Spikes (Púas Tóxicas)?",
+    "options": ["Daño de entrada", "Efecto de Terreno", "Movimiento de ataque", "Habilidad"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Cuál es la prioridad de movimientos como Trick Room?",
+    "options": ["-1", "0", "+1", "-7"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué habilidad permite atacar en turno de cambio?",
+    "options": ["Mold Breaker", "Intimidate", "Regenerator", "No existe"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué efecto tiene un movimiento con prioridad negativa?",
+    "options": ["Ataca primero", "Ataca último", "No ataca", "Necesita setup"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿A qué se refiere 'bulky'?",
+    "options": ["Más velocidad", "Más defensas", "Más ataque", "Más HP"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es un 'bulky water'?",
+    "options": ["Agua defensiva", "Agua ofensiva", "Agua especial", "Tipo agua doble"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué ocurre con Trick Room activo?",
+    "options": ["Velocidad normal", "Invertida inversión de velocidad", "Sin velocidad", "Tiempo invertido"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es un 'pivot' en Pokémon competitivo?",
+    "options": ["Ataque fuerte", "Cambio estratégico", "Setup lento", "Movimiento rápido"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué movimiento causa daño y te permite cambiar libremente?",
+    "options": ["U-turn", "Volt Switch", "Dragon Tail", "Los dos primeros"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Cuántos turnos dura un Terreno sin específicar?",
+    "options": ["1", "2", "5", "Indefinido"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es un 'sweeper' en competitivo Pokémon?",
+    "options": ["Defensor", "Atacante rápido y fuerte", "Curador", "Soporte"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué estado reduce el Ataque físico en 50%?",
+    "options": ["Quemadura", "Parálisis", "Veneno", "Congelación"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué habilidad absorbe estatuas de agua y cura PS?",
+    "options": ["Water Absorb", "Dry Skin", "Storm Drain", "Flash Fire"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es el 'weather' en Pokémon?",
+    "options": ["Clima temporal", "Terreno", "Efecto de entrada", "Movimiento especial"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Cuántos turnos dura lluvia sin específico?",
+    "options": ["3 turnos", "5 turnos", "Indefinido", "Depende"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué ocurre con Sandstorm activo a un Pokémon normal?",
+    "options": ["Pierde 1/8 PS", "Gana Defensa", "Sin efecto", "Se cura"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es un 'special wall' o 'special defender'?",
+    "options": ["Baja Def. Especial", "Alta Def. Especial", "Sin Ataque Especial", "Rápido especial"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué habilidad otorga +1 Ataque al entrar en combate?",
+    "options": ["Intimidate", "Moxie", "Competitive", "No existe"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "mecanicas"
+  },
+  {
+    "question": "¿Qué es un 'mono-type team' en competitivo?",
+    "options": ["Un solo tipo", "Varios tipos", "Legendarios", "Sin límite"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "mecanicas"
   }
 ]

@@ -19,5 +19,159 @@
     "correct": 1,
     "difficulty": "medium",
     "category": "stats"
+  },
+  {
+    "question": "¿Cuál es el Pokémon con mayor stat base de Ataque?",
+    "options": ["Slaking", "Machamp", "Dragonite", "Mewtwo"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué Pokémon tiene mayor Velocidad base: Weavile o Alakazam?",
+    "options": ["Weavile", "Alakazam", "Tienen la misma", "No se puede saber"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué característica tiene el mayor total de stats base: 670, 680 o 690?",
+    "options": ["Legendarios menores", "Pseudo-legendarios", "Legendarios mayores", "Pokémon normales"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Blissey tiene 255 de PS base, ¿cuál es su Defensa Especial base?",
+    "options": ["75", "55", "95", "135"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué Pokémon tiene un stat de Ataque de 140 en su forma giga?",
+    "options": ["Salamence", "Metagross", "Garchomp", "Dragonite"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Cuál es el Pokémon no-legendario con mayor Defensa especial base?",
+    "options": ["Blissey", "Umbreon", "Dusknoir", "Chansey"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Alakazam tiene 120 de Ataque Especial, ¿cuántos PS tiene? (base)",
+    "options": ["35", "45", "55", "65"],
+    "correct": 2,
+    "difficulty": "medium",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué stat es imposible superar en 255 en pokémon sin items?",
+    "options": ["Ninguno", "PS", "Velocidad", "Ataque"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Gyarados tiene 95 de Ataque pero 79 de Ataque Especial, ¿qué implica?",
+    "options": ["Es físico", "Es especial", "Es mixto", "Nada especial"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "stats"
+  },
+  {
+    "question": "¿Cuál es la distribución de stats de Machamp?",
+    "options": ["80/130/80/65/85/55", "80/130/80/85/65/55", "85/130/80/65/85/55", "80/140/80/65/85/55"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué Pokémon tiene más Defensa: Steelix o Aggron?",
+    "options": ["Steelix", "Aggron", "Tienen iguales", "Depende del nivel"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Cuál es la Velocidad base de Alakazam, el Pokémon no-leyenda más rápido?",
+    "options": ["135", "140", "145", "150"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Lugia tiene 106 de Ataque especial y 90 de Ataque, ¿por qué?",
+    "options": ["No hay razón", "Es mejor físicamente", "Es mejor especialmente", "Está balanceado"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Cuánto sube el total de stats con la Gigantamáx?",
+    "options": ["10 puntos", "No cambia", "Depende del Pokémon", "20% aprox"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué hace el item Choice Scarf en los stats de base?",
+    "options": ["Aumenta Ataque 50%", "Aumenta Velocidad 50%", "No afecta base", "Aumenta todos 20%"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Landorus tiene 149 de Ataque, pero ¿su Ataque Especial es menor o igual?",
+    "options": ["Menor", "Igual", "Mayor", "No existe versión especial"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué Pokémon pseudo-legendario tiene el mayor total de stats base?",
+    "options": ["Salamence", "Garchomp", "Metagross", "Dragonite"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Cuál es el Pokémon 'tanque' con más resistencia física que especial?",
+    "options": ["Blissey", "Chansey", "Umbreon", "Snorlax"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Mewtwo es más rápido que Alakazam en stats base?",
+    "options": ["Sí, 154 vs 120", "No, 120 vs 154", "Sí, tiene Mega forma", "Igual velocidad"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué Pokémon tiene Defensa Especial 65 y es conocido por su lentitud?",
+    "options": ["Snorlax", "Slaking", "Shuckle", "Chansey"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "Dusknoir tiene 80 de Defensa. ¿Es esto más que su Defensa Especial?",
+    "options": ["Sí", "No, tiene 130", "No, tiene 95", "Iguales"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "stats"
+  },
+  {
+    "question": "¿Qué stat tiene un Pokémon 'wall' especial como Blissey específicamente?",
+    "options": ["PS 35, DefEsp 135", "PS 255, DefEsp 55", "PS 255, DefEsp 135", "PS 100, DefEsp 200"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "stats"
   }
 ]

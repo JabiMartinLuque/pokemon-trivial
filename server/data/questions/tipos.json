@@ -26,5 +26,187 @@
     "correct": 1,
     "difficulty": "medium",
     "category": "tipos"
+  },
+  {
+    "question": "¿Cuántos tipos resultan super efectivos contra Acero?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo es resistente TANTO a Dragón como a Psíquico?",
+    "options": ["Planta", "Acero", "Hada", "Siniestro"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "St-éél (Acero/Psíquico) recibe super efectivo de... ¿cuál?",
+    "options": ["Hada", "Fuego", "Siniestro", "Fantasma"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo es resistente a ataques normales?",
+    "options": ["Roca", "Acero", "Ninguno", "Voltorb"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Gyarados es de tipo Agua y…",
+    "options": ["Volador", "Dragón", "Lucha", "Roca"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo resiste AMBOS: Fuego y Volador?",
+    "options": ["Agua", "Veneno", "Acero", "Fuego"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Cuántas resistencias tiene un Pokémon de tipo Agua puro?",
+    "options": ["1", "3", "4", "5"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Crobat es de tipo Veneno y…",
+    "options": ["Eléctrico", "Volador", "Psíquico", "Normal"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo es super efectivo contra Hada?",
+    "options": ["Siniestro", "Veneno", "Acero", "Los dos primeros"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Un Pokémon de tipo Tierra/Volador es débil solamente a…",
+    "options": ["Agua", "Agua e Hielo", "Hielo", "Agua, Hielo y Roca"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo NO es debilidad del tipo Dragón?",
+    "options": ["Dragón", "Hielo", "Roca", "Hada"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Toxapex (Agua/Veneno) es resistente a… EXCEPTO",
+    "options": ["Lucha", "Fuego", "Eléctrico", "Hielo"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Cuántos tipos son débiles a Siniestro?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Tyranitar es de tipo Roca y…",
+    "options": ["Volador", "Siniestro", "Agua", "Fuego"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "tipos"
+  },
+  {
+    "question": "Un Pokémon de tipo Acero/Volador es débil a…",
+    "options": ["Fuego", "Agua y Roca", "Fuego solamente", "Agua, Roca y Fuego"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo resiste AMBOS: Volador y Psíquico?",
+    "options": ["Lucha", "Acero", "Planta", "Hada"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Gengar es de tipo Fantasma y…",
+    "options": ["Planta", "Veneno", "Psíquico", "Siniestro"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Dónde se inmune un Pokémon de tipo Fantasma?",
+    "options": ["Ataques Normales", "Ataques Eléctricos", "Ataques de Lucha", "Ataques de Fuego"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Un Pokémon de tipo Lucha recibe super efectivo de… EXCEPTO",
+    "options": ["Volador", "Psíquico", "Hada", "Agua"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Bronzong es de tipo Acero y…",
+    "options": ["Volador", "Psíquico", "Agua", "Planta"],
+    "correct": 1,
+    "difficulty": "medium",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo tiene CUATRO debilidades?",
+    "options": ["Fuego", "Agua", "Tierra", "Roca"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Un Pokémon de tipo Psíquico/Fantasma resiste…",
+    "options": ["Veneno y Fantasma", "Psíquico y Fantasma", "Solo Fantasma", "Nada"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Qué tipo es super efectivo solo contra DOS tipos?",
+    "options": ["Normal", "Veneno", "Tierra", "Todas son correctas"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Giratina (Dragón/Fantasma) recibe super efectivo de…",
+    "options": ["Agua", "Hielo y Fantasma", "Dragón, Hielo y Fantasma", "Dragón, Hielo, Fantasma y Hada"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "Un Pokémon de tipo Agua/Hielo es resistente a…",
+    "options": ["Hielo solamente", "Agua solamente", "Agua e Hielo", "Agua, Hielo y Volador"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "tipos"
+  },
+  {
+    "question": "¿Cuál es el tipo que resiste a Roca?",
+    "options": ["Lucha", "Fuego, Volador y Acero", "Volador", "Roca"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "tipos"
   }
 ]

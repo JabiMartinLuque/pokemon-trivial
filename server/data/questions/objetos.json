@@ -19,5 +19,159 @@
     "correct": 1,
     "difficulty": "medium",
     "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto duplica el daño de un movimiento pero reduce Velocidad?",
+    "options": ["Choice Band", "Power Herb", "Choice Specs", "Assault Vest"],
+    "correct": 0,
+    "difficulty": "easy",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto otorga inmunidad a cambios de stats?",
+    "options": ["Assault Vest", "Special Wall", "Clear Amulet", "Life Orb"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto hace que solo se pueda usar el primer movimiento seleccionado?",
+    "options": ["Choice Scarf", "Choice Specs", "Choice Band", "Los tres son correctos"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto aumenta el Ataque pero reduce la precisión?",
+    "options": ["Choice Band", "Assault Vest", "Pure Incense", "Wide Lens"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto hace que el usuario ataque primero pero pierde PS?",
+    "options": ["Life Orb", "Choice Scarf", "Assault Vest", "No existe"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto reduce 10% de daño recibido?",
+    "options": ["Assault Vest", "Assault Vest", "Rocky Helmet", "Weakness Policy"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto aumenta el Ataque Especial pero desactiva movimientos de contacto?",
+    "options": ["Choice Specs", "Assault Vest", "Life Orb", "Power Herb"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto protege contra el Terreno?",
+    "options": ["Air Balloon", "Assault Vest", "Leftovers", "Sitrus Berry"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto impide que se baje la velocidad más de una vez?",
+    "options": ["Assault Vest", "Weakness Policy", "Scarf Modesto", "No existe"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto fuerza a cambiar el Pokémon del rival después de atacar?",
+    "options": ["Eject Button", "Red Card", "Dragon's Tail", "Trick Room"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto se consume si el usuario recibe super efectivo?",
+    "options": ["Weakness Policy", "Sitrus Berry", "Focus Sash", "Lum Berry"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto otorga +1 Velocidad si entra en combate contra tipo específico?",
+    "options": ["Charcoal", "Assault Vest", "Choice Scarf", "Depends del tipo"],
+    "correct": 3,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto consume 1/8 PS pero aumenta potencia de movimientos?",
+    "options": ["Life Orb", "Assault Vest", "Choice Band", "Rocky Helmet"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto sincroniza el Pokémon si ambos atacan por contacto?",
+    "options": ["Assault Vest", "Rocky Helmet", "Sticky Web", "Trick Room"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto hace subenormalmentees el ataque del rival al atacar?",
+    "options": ["Weakness Policy", "Rocky Helmet", "Assault Vest", "None of these"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto impide que se reduzca la Defensa Especial?",
+    "options": ["Assault Vest", "Special Shield", "Assault Vest", "Weakness Policy"],
+    "correct": 0,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto cambia el tipo del usuario al tipo del movimiento usado?",
+    "options": ["Assault Vest", "Silk Scarf", "Plate items", "No existe"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto impide que entren Pokémon débiles a tipo X?",
+    "options": ["Air Balloon", "Safety Goggles", "Assault Vest", "Items especiales"],
+    "correct": 1,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto aumenta Ataque si el usuario es rápido?",
+    "options": ["Choice Scarf", "Weakness Policy", "Assault Vest", "No existe"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto da +1 en todos los stats después de cambiar?",
+    "options": ["Assault Vest", "Trick Room", "No existe", "Weakness Policy"],
+    "correct": 2,
+    "difficulty": "hard",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué objeto le roba PS al rival cada turno?",
+    "options": ["Leftovers", "Black Sludge", "Assault Vest", "Rocky Helmet"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "objetos"
+  },
+  {
+    "question": "¿Qué Berry se consume si entra en estado de confusión?",
+    "options": ["Persim Berry", "Cheri Berry", "Pecha Berry", "Lum Berry"],
+    "correct": 0,
+    "difficulty": "medium",
+    "category": "objetos"
   }
 ]
